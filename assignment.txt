@@ -82,3 +82,10 @@ additionally:
 you need to pass some secrets
 username
 password but these values should be stored in ansible vault
+
+
+15th august
+assignment docker
+1. try to look for different commands in docker file and try to implement them and see the difference
+
+2. try docker cheat sheet commands: https://www.docker.com/resources/cli-cheat-sheet/
